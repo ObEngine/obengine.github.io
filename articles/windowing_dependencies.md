@@ -70,7 +70,7 @@ When is comes to creating a cross-platform window, SDL is often a go-to solution
 - The interface is C code, you have to manage the lifetime of your objects
 - Too big of a dependency to embed in the repository
 
-SDL is still around and kicking, with a health amount of git contributions.
+SDL is still around and kicking, with a healthy amount of git contributions.
 
 ![SDL Git contributions](https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/sdl_git_contributions.png)
 
@@ -101,17 +101,23 @@ GLFW is a well known library that specialize in window creation and event pollin
 
 ## [Freeglut](http://freeglut.sourceforge.net/) : The old fashioned
 
+<img src="http://freeglut.sourceforge.net/images/freeglut_logo.png" alt="FreeGLUT logo" style="zoom:200%;" />
+
 #### Pros
 
 - Permissive license (MIT)
 
 ## [CrossWindow](https://github.com/alaingalvan/CrossWindow) : The youngster
 
+<img src="https://raw.githubusercontent.com/alaingalvan/CrossWindow/master/docs/images/cover.png" alt="CrossWindow logo" style="zoom: 67%;" />
+
 #### Pros
 
 - Permissive license (MIT)
 
-### [Cinder](https://libcinder.org/) : More than you asked for
+## [Cinder](https://libcinder.org/) : More than you asked for
+
+<img src="https://camo.githubusercontent.com/bc307cb2e7d9bd5ae37a1312b0fa3d472ffecec756496acf368a9dad4bd60d4d/68747470733a2f2f6c696263696e6465722e6f72672f646f63732f5f6173736574732f696d616765732f63696e6465725f6c6f676f2e737667" alt="Cinder logo" style="zoom: 25%;" />
 
 #### Pros
 
@@ -136,12 +142,16 @@ There would be a lot of advantages in using Magnum graphics for other components
 
 ## [Qt](https://www.qt.io/) : The mastodont
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" alt="Qt logo" style="zoom: 10%;" />
+
 #### Cons
 
 - Huge dependency
 - Non-permissive license (LGPL)
 
 ## [Gamedev Framework](https://gamedevframework.github.io/) : Best of both worlds ?
+
+![gf logo](https://raw.githubusercontent.com/GamedevFramework/gf/master/gf_logo.png)
 
 Gamedev framework is still a relatively young project (2016) it has the same scope as the SFML.
 
@@ -162,15 +172,19 @@ Gamedev framework is still a relatively young project (2016) it has the same sco
 
 ## [StormKit](https://gitlab.com/Arthapz/stormkit) : The friendly one
 
+![StormKit logo](https://raw.githubusercontent.com/Arthapz/StormKit/master/icons/iOS/AppIcon.xcassets/AppIcon.appiconset/Icon-83.5%402x.png)
+
 #### Pros
 
 - Permissive license (MIT)
 
 ## [FLTK](https://www.fltk.org) : The dusty one
 
+![FLTK logo](https://www.fltk.org/images/top-middle.gif)
+
 ## [WxWidgets](http://www.wxwidgets.org/) : Not the right tool for the job
 
-
+![WxWidgets logo](https://www.wxwidgets.org/assets/img/header-logo.png)
 
 ## All the other ones
 
