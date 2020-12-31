@@ -179,7 +179,7 @@ There would be a lot of advantages in using Magnum graphics for other components
 
 ## The multimedia libraries : Platform support
 
-| Library / Platform | ![SFML Git contributions](https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/windows_icon.png) Windows | ![SFML Git contributions](https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/macos_icon.png) MacOS | ![SFML Git contributions](https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/linux_icon.png) Linux | Android | iOS  |
+| Library / Platform | <img src="https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/windows_icon.png" alt="Windows logo" style="zoom: 50%;" /> Windows | <img src="https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/macos_icon.png" alt="MacOS logo" style="zoom: 50%;" />MacOS | <img src="https://raw.githubusercontent.com/ObEngine/obengine.github.io/main/images/linux_icon.png" alt="Linux logo" style="zoom: 50%;" /> Linux | Android | iOS  |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- |
 | SFML 2.5           |                                                              |                                                              |                                                              |         |      |
 | SDL 2.0.14         |                                                              |                                                              |                                                              |         |      |
